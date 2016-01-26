@@ -1,0 +1,3 @@
+- convert the under water from PID closed loop to Open Loop system
+- throttle under water to be 1300 max
+- RC control signal (Roll, bitch, yaw) to be between 1300-1500-1700 under water
